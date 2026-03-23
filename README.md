@@ -126,7 +126,7 @@ Revenue is driven not just by top-tier customers, but by **strategic movement be
 
 ### Segment Focus Area
 
-![Segment Focus Area](./images/segment_focus.png)
+![Segment Focus Area](./images/segment_focus_area.png)
 
 The Segment Focus Area table identifies the weakest dimension (Recency, Frequency, or Monetary) for each group, providing clear direction for targeted strategies.
 
